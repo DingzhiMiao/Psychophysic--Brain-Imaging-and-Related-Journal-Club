@@ -10,9 +10,9 @@
 将文章上传至 **paper** 文件夹，文件名为“时间+姓名+文章名”
 ### 3.2 上传presentation ppt
 将ppt上传至 **ppt** 文件夹，文件名为“时间+姓名”，若没有ppt也可以不要上传。
-### 4. Schedule
+## 4. Schedule
 所有主讲人：谢鑫宇，官漱尘，田志强，胡定之，张生辉，张雨晨，赵星楠，张雨薇
-#### 第一轮安排
+### 第一轮安排
 | 时间 | 主讲人 | 主题 |
 | --- | --- | --- |
 | 3.27 | 胡定之  | The multisensory function of the human primary visual cortex |
